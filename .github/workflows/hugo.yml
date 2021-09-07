@@ -1,6 +1,6 @@
 #.github/workflows/filename.yml
 
-name: wow
+name: hugo
 
 on:
   push:
