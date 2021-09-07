@@ -4,3 +4,6 @@
 [submodule "themes/pulp"]
 	path = themes/pulp
 	url = https://github.com/koirand/pulp.git
+[submodule "themes/vncut-hugo"]
+	path = theme/vncut-hugo
+	url = https://github.com/fncnt/vncnt-hugo
